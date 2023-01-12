@@ -109,7 +109,9 @@ li a:hover{color: blue;}
         margin-left:238px;
 
     }
-    .btn:hover{
+    /* .btn:hover{
         margin-right: 238px;
         margin-left: 0px;
-    }
+    } */
+    .error{height: 200px;}
+    .btn a{text-decoration: none;color: white;}
